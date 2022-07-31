@@ -2,7 +2,7 @@ import React from "react";
 // import DeleteOutlineIcon from '@mui/icons-material/DeleteOutline';
 
 import { RiDeleteBinFill } from "react-icons/ri";
-import { Button } from "@mui/material";
+// import { Button } from "@mui/material";
 
 const Note = (props) => {
   const deleteNote =() =>{

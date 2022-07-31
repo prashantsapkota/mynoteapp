@@ -11,7 +11,7 @@ const Footer = () => {
         <p>copyright © {year}</p>
     </footer>
   </>;
-    <div>Footer</div>
+    // <div>Footer</div>
   
 };
 export default Footer;
